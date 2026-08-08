@@ -1,12 +1,7 @@
 <br clear="both">
 
-<img data-importer="image" align="right" height="302" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/Playboisaad/Playboisaad/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Playboisaad/Playboisaad/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="302" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 </div>
 
 ###
