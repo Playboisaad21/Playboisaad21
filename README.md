@@ -48,11 +48,4 @@
 </div>
 
 ###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Playboisaad/Playboisaad/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Playboisaad/Playboisaad/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Playboisaad/Playboisaad/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
+![Snake animation](https://raw.githubusercontent.com/plaboisaad21/plaboisaad21/output/github-contribution-grid-snake-dark.svg)
